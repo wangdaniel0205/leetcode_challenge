@@ -24,4 +24,3 @@ if __name__ == '__main__':
     for case in testCases:
         ListNode.printAll(solution.mergeTwoLists(case[0], case[1]))
                 
-        
